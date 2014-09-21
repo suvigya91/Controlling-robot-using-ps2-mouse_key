@@ -1,0 +1,4 @@
+green:data
+white:clock
+blue:grnd
+brown:vcc
